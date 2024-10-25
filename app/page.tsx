@@ -69,15 +69,17 @@ export default function Home() {
           Selling on the
         </h1>
         <h1 className="text-8xl md:text-6xl mb-12 mt-7 font-bold tracking-wider">
-          {" "}
           internet like a pro
         </h1>
-        <h2 className="text-white mt-6 text-6xl tracking-wide md:text-base">
+        <h1 className="text-white my-8 text-8xl tracking-widest md:text-base">
+        We know how large objects will act, but things on a <br />  small scale just do not act that way.
+        </h1>
+        {/* <h2 className="text-white mt-6 text-6xl tracking-wide md:text-base">
           We know how large objects will act, but things on a
         </h2>
         <h2 className="text-white mb-6 text-8xl tracking-wide md:text-base">
           small scale just do not act that way.
-        </h2>
+        </h2> */}
         <div className="space-y-4 md:space-y-0  md:space-x-4">
           <button className="bg-blue-400 px-8 mr-1 py-3 rounded hover:bg-[#73a4da]">
             Get Quote Now
